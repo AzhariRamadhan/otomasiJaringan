@@ -29,13 +29,13 @@ ___
     
 ## Quick start
     sudo su
-    git clone https://github.com/azhari33/nacm.git
-    cd nacm
-    virtualenv -p python3 env
+    git clone https://github.com/azhari33/otomasiJaringan.git
+    cd otomasiJaringan
+    python3 -m venv env
     source env/bin/activate
-    pip3 install -r requirements.txt
-    cd nacm
-    python3 manage.py runserver 0.0.0.0:8000
+    pip install -r requirements.txt
+    cd automation
+    python manage.py runserver 
     akses via browser <ip:8000>
  
  ## Readme
