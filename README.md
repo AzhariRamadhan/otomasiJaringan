@@ -1,5 +1,7 @@
 
-![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_Unib.png/472px-Logo_Unib.png) 
+<p align="center">
+    <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_Unib.png/472px-Logo_Unib.png">
+</p>
 <h1 align="center">NACM</h1>
 <h2 align="center">Network Automation Configuration Management</h2>
 
