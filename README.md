@@ -1,5 +1,5 @@
 
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.m.wikipedia.org%2Fwiki%2FBerkas%3ALogo_Unib.png&psig=AOvVaw3a5blSKtUOxykLiWxuydyC&ust=1602751265115000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDd3fDXs-wCFQAAAAAdAAAAABAD) 
+![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_Unib.png/472px-Logo_Unib.png) 
 <h1 align="center">NACM</h1>
 <h2 align="center">Network Automation Configuration Management</h2>
 
