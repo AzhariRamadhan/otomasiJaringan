@@ -46,7 +46,7 @@ ___
 ___
 
 #### 1. Main Page
-![Image of index](https://drive.google.com/file/d/1iJ85jbJt_iJAE21ALVdbCb2xjxZMEBLf/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1iJ85jbJt_iJAE21ALVdbCb2xjxZMEBLf)
 
 #### 2. Routing
 ![Image of routing](https://drive.google.com/file/d/12AgJE3va-pnVZqgbyatD5mJaWrTQ7Mst/view?usp=sharing)
