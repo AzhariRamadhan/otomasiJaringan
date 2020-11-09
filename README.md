@@ -49,13 +49,13 @@ ___
 ![image](https://drive.google.com/uc?export=view&id=1iJ85jbJt_iJAE21ALVdbCb2xjxZMEBLf)
 
 #### 2. Routing
-![Image of routing](https://drive.google.com/file/d/12AgJE3va-pnVZqgbyatD5mJaWrTQ7Mst/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=12AgJE3va-pnVZqgbyatD5mJaWrTQ7Mst)
 
 #### 3. Backup
-![Image of backup](https://drive.google.com/file/d/1drZVZkcGWYoqxwyn1jL9OGwm8LjIO57Q/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1drZVZkcGWYoqxwyn1jL9OGwm8LjIO57Q)
 
 #### 4. Restore
-![Image of vlan](https://drive.google.com/file/d/1_-uUI8VrhOXypov8xYFTts8Nd9Cqjvyv/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1_-uUI8VrhOXypov8xYFTts8Nd9Cqjvyv)
 
 ___
 
