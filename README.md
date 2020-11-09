@@ -29,7 +29,7 @@ ___
     
 ## Quick start
     sudo su
-    git clone https://github.com/azhari33/otomasiJaringan.git
+    git clone https://github.com/AzhariRamadhan/otomasiJaringan.git
     cd otomasiJaringan
     python3 -m venv env
     source env/bin/activate
